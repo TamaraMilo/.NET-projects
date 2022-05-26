@@ -1,0 +1,12 @@
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\bin\Debug\Podaci.dll
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\bin\Debug\Podaci.pdb
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\obj\Debug\Podaci.csproj.AssemblyReference.cache
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\obj\Debug\Podaci.csproj.CoreCompileInputs.cache
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\obj\Debug\Podaci.dll
+C:\Users\Marija\source\repos\lab4_OOP\Podaci\obj\Debug\Podaci.pdb
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\bin\Debug\Podaci.dll
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\bin\Debug\Podaci.pdb
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\obj\Debug\Podaci.csproj.AssemblyReference.cache
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\obj\Debug\Podaci.csproj.CoreCompileInputs.cache
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\obj\Debug\Podaci.dll
+D:\III_godina\V semestar\Objektno-orijentisano_projektovanje\lab4_OOP\lab4_OOP\Podaci\obj\Debug\Podaci.pdb
